@@ -51,6 +51,41 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
+
+## **API Endpoints**
+
+### **Authentication**
+- `POST /api/auth/register` - Register a new user  
+- `POST /api/auth/login` - Login user  
+- `GET /api/auth/logout` - Logout user  
+
+### **Products**
+- `GET /api/products` - Get all products  
+- `POST /api/products` - Add new product  
+- `PUT /api/products/:id` - Update product  
+- `DELETE /api/products/:id` - Delete product  
+
+### **Customers / Vendors**
+- `GET /api/contacts` - List all contacts  
+- `POST /api/contacts` - Add contact  
+- `PUT /api/contacts/:id` - Update contact  
+- `DELETE /api/contacts/:id` - Delete contact  
+
+### **Transactions**
+- `GET /api/transactions` - List transactions  
+- `POST /api/transactions` - Add transaction  
+
+### **Reports**
+- `GET /api/reports/inventory` - Current inventory report  
+- `GET /api/reports/transactions` - Transaction report  
+
+---
+
+## **Environment Variables**
+Create a `.env` file in the root folder and add:
+
+---
+
 ## **Run the Project**
 
 ```bash
