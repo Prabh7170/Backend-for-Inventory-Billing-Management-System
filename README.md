@@ -65,3 +65,7 @@ npm run dev
 -You can import the Postman collection to test all API endpoints:
 
 https://web.postman.co/workspace/My-Workspace~04fadf19-adfd-45ec-8983-b90f3f2f9c08/collection/39075050-173a2394-3a46-46dd-9e97-b1acbe8761b2?action=share&source=copy-link&creator=39075050
+
+## **Postman API Screenshots**
+![Alt Text](path/to/image.png)
+
