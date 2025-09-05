@@ -69,5 +69,5 @@ https://web.postman.co/workspace/My-Workspace~04fadf19-adfd-45ec-8983-b90f3f2f9c
 ## **Postman API Screenshots**
 ![Alt Text](https://github.com/Prabh7170/Backend-for-Inventory-Billing-Management-System/blob/6905e70bf90414c615a6f153d4f1bde0cafeb9b5/Screenshot%20(172).png)
 ![Alt Text](https://github.com/Prabh7170/Backend-for-Inventory-Billing-Management-System/blob/952e094c389e4bc66b85486463de2abbff78abdd/Screenshot%20(173).png)
-![Alt Text]()
+![Alt Text](https://github.com/Prabh7170/Backend-for-Inventory-Billing-Management-System/blob/a08054ec97874c1ae7978cd79fed47f37095a4cc/Screenshot%20(174).png)
 
