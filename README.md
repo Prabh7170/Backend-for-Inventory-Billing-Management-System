@@ -67,5 +67,6 @@ npm run dev
 https://web.postman.co/workspace/My-Workspace~04fadf19-adfd-45ec-8983-b90f3f2f9c08/collection/39075050-173a2394-3a46-46dd-9e97-b1acbe8761b2?action=share&source=copy-link&creator=39075050
 
 ## **Postman API Screenshots**
-![Alt Text](path/to/image.png)
+![Alt Text](https://github.com/Prabh7170/Backend-for-Inventory-Billing-Management-System/blob/6905e70bf90414c615a6f153d4f1bde0cafeb9b5/Screenshot%20(172).png)
+![Alt Text]()
 
